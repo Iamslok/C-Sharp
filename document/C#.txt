@@ -1,0 +1,37 @@
+Data Type:
+---------------
+Int integer stores(0 to 123 or 0 to -123),
+
+double float point values, decimal 0 to 19.99 
+
+char 'a'
+
+string - "ndaskjdnkjasndkjas"
+
+bool - true or flase(boolean)
+
+Variables
+--------
+
+int a;
+
+type variablename = value;
+
+string name = "c#"
+
+const int age = 10
+
+
+Type casting
+-------------
+
+The process of converting one datatype to another datatype
+
+implicit: small type to large type char > int > long > float > double
+
+explicit: Large to small
+
+
+implicit:
+
+int age = 10;
