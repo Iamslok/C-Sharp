@@ -35,3 +35,53 @@ explicit: Large to small
 implicit:
 
 int age = 10;
+
+operators
+
+arithemetic operators(+, -, /, %, ++, --);
+
+a + b
+a - b
+
+
+Conditional statement 
+
+a > b
+b< a
+
+>=
+<=
+==
+!=
+>
+<
+||
+&&
+
+ternary operator
+
+variable = condition ? "":""
+
+While loop - the while loops as long as specified condition is True
+
+Do/while - it will execute the code once and, then it will execute the while block code.
+
+For loop - for(stat 1, stat 2, stat3){},
+
+forEach - which is used to loop trought the array - foreach(string a in array){};
+
+methods is block code and also know as functions
+
+-- class myclass
+{
+	static void mymethod(){
+		/
+	}
+}
+
+static - this method belongs to myclass not an object;
+void means this method does not return a value
+
+method overloading--
+
+multiple methods with same methods but with different paramenters
