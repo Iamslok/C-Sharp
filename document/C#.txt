@@ -85,3 +85,22 @@ void means this method does not return a value
 method overloading--
 
 multiple methods with same methods but with different paramenters
+
+OOps - object oriented programming is all about creating objects that contains both data and methods
+
+-- faster and easier to excute
+-- code reusable
+
+
+-->Classes and object
+
+classes and object are two main important aspects of oop
+
+class - car   object - kia - swift - bmw
+class - fruits  object apple - mango.
+
+class is a template for objects and an object is an instance of class.
+
+
+Constructor is used to intialize objects. when a object of a class is created the values of the fields will be intialized
+
